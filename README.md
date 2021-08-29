@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Stanislav001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there
 
-<!---
-Stanislav001/Stanislav001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  My name is Stanislav, an IT student and Software Engineer from Veliko Tarnovo.  I really enjoy learning languages and frameworks. For now, I'm focusing mainly on .NET.
+  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S.Stanchev)](https://github.com/anuraghazra/github-readme-stats)
