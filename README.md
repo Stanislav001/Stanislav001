@@ -10,7 +10,7 @@ My name is Stanislav, an IT student and Software Engineer from Veliko Tarnovo. I
 * 🖥️  Postman
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Stanislav001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/stanislav.17/) 
-[<img src='https://www.mhe-sme.org/wp-content/uploads/2017/12/linkedin-icon.png' alt='linkedin' height='40'>](www.linkedin.com/in/stanislav-stanchev)
+[<img src='https://www.linkedin.com/in/stanislav-stanchev/' alt='linkedin' height='40'>](https://www.mhe-sme.org/wp-content/uploads/2017/12/linkedin-icon.png)
 
 ## My GitHub Stats 📈
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanislav001&show_icons=true&theme=dark)
