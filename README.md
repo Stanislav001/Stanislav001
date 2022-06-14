@@ -6,10 +6,11 @@ I am currently studying react.
 
 ## Skills and Experience
 
-* 📚  C# , Java
+* 📚  React
 * 💻  HTML, CSS, Bootstrap, JS
-* 🖥️  React 
+* 🖥️  C# , Java 
 
+## Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Stanislav001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/stanislav.17/) 
 [<img src='https://www.mhe-sme.org/wp-content/uploads/2017/12/linkedin-icon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/stanislav-stanchev/)
 
